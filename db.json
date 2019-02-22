@@ -1,5 +1,4 @@
-{
-  "shield": [
+
     {
       "schemaVersion": 1,
       "label": "feedz.io",
@@ -8,5 +7,3 @@
       "logoSvg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" className={props.className} viewBox=\"0 0 197 197\"><g fill=\"#0899c1\"><rect x=\"60\" y=\"10\" width=\"46\" height=\"46\"\/><rect x=\"10\" y=\"10\" width=\"46\" height=\"46\"\/><rect x=\"10\" y=\"60\" width=\"46\" height=\"46\"\/><\/g><g fill=\"white\"><rect x=\"113\" y=\"33\" width=\"74\" height=\"74\"\/><rect x=\"113\" y=\"113\" width=\"74\" height=\"74\"\/><rect x=\"32\" y=\"113\" width=\"74\" height=\"74\"\/><\/g><\/svg>",
       "logoColor": "white"
     }
-  ]
-}
