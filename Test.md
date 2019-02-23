@@ -1,0 +1,1 @@
+[![feedz.io](https://img.shields.io/badge/endpoint.svg?url=https%3A%2F%2Ff.feedz.xyz%2F40gb%2Faa%2Fshield%2F2GIS.NuClear.Aggregates%2Flatest)](https://f.feedz.xyz/40gb/aa/packages/2GIS.NuClear.Aggregates/latest)
